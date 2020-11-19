@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ### Hi there 👋, Amman Abua
 #### Web Developer
 ![Web Developer](https://images.unsplash.com/photo-1553152531-b98a2fc8d3bf?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=900&q=60)
