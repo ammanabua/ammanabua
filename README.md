@@ -5,7 +5,7 @@
 I'm Amman from Nigeria, and I am a full stack web developer. I enjoy coding with JavaScript and consider myself fluent with Nodejs, React, Express & MongoDB. I build sites with WordPress and I am also familiar with several frameworks and libraries as well. When I am not coding, I'm either playing basketball or lost in a good book. 
 
 
-Skills: Nodejs / Express / React / MongoDB / JS / HTML / CSS
+Skills: Nodejs / Express / React / MongoDB / JS / HTML / CSS / WordPress
 
 - 🔭 I’m currently working on www.drizitnig.ng 
 - 🌱 I’m currently learning GraphQL, mySQL & Vuejs 
