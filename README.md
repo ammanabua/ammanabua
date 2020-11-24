@@ -7,7 +7,6 @@ I'm Amman from Nigeria, and I am a full stack web developer. I enjoy coding with
 
 Skills: Nodejs / Express / React / MongoDB / JS / HTML / CSS / WordPress
 
-- 🔭 I’m currently working on www.drizitnig.ng 
 - 🌱 I’m currently learning GraphQL, mySQL & Vuejs 
 - 😄 Pronouns: He/Him 
 
