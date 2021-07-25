@@ -7,9 +7,6 @@ I'm Amman from Nigeria, and I am a full stack web developer. I enjoy coding with
 
 Skills: Nodejs / Express / React / MongoDB / JS / HTML / CSS / WordPress
 
-- 🌱 I’m currently learning GraphQL, mySQL & Vuejs 
-- 😄 Pronouns: He/Him 
-
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ammanabua)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/amman-abua/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/ammanie_k)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/ammany93)  
 
