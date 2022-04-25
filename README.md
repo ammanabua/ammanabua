@@ -1,8 +1,8 @@
-### Hi there 👋,
+### Hi there 👋, my name is Amman
 #### Web Developer
 ![Web Developer](https://drive.google.com/file/d/1ibhX61TgFzBgf8iLQWqNVchQairRRD27/view?usp=sharing)
 
-I'm Amman from Nigeria, and I am a full stack web developer. I enjoy coding with JavaScript and consider myself fluent in Nodejs, React, Express & MongoDB. I also build sites with WordPress, Bootstrap & Semantic UI, and I am familiar with several frameworks and libraries as well. When I am not coding, I'm either playing basketball or lost in a good book. 
+I'm a Web Developer from Nigeria. I enjoy coding with JavaScript and consider myself fluent in Nodejs, React, Express & MongoDB. I also build sites with WordPress, Bootstrap & Semantic UI, and I am familiar with several frameworks and libraries as well. When I am not coding, I'm either playing basketball or lost in a good book. 
 
 
 Skills: Nodejs / Express / React / MongoDB / JS / HTML / CSS / WordPress
