@@ -1,4 +1,4 @@
-### Hi there 👋, Amman Abua
+### Hi there 👋,
 #### Web Developer
 ![Web Developer](https://drive.google.com/file/d/1ibhX61TgFzBgf8iLQWqNVchQairRRD27/view?usp=sharing)
 
