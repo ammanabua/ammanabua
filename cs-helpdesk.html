@@ -33,7 +33,7 @@
 
         <div class="content">
             <!-- Login section -->
-            <section class="left">
+            <div class="left">
 
                 <div class="left-content">
                     <h2>Login</h2>
@@ -47,17 +47,17 @@
                     <div class="separator">or login using</div>
 
                     <!-- Login Form -->
-                    <form action="">
+                    <form>
                         
                         <label for="email">Username or Email</label>
-                        <input type="text" name="email" placeholder="Enter email">
+                        <input type="email" name="email" id="email" placeholder="Enter email">
 
                         <label for="password">Password</label>
-                        <input type="password" placeholder="Enter password">
+                        <input type="password" id="password" placeholder="Enter password">
 
                         <div class="form-sec">
                             <div class="form-check">
-                                <input type="checkbox" name="remember" id="">
+                                <input type="checkbox" name="remember" id="remember">
                                 <label for="remember">Remember me</label>
                             </div>
                                 
@@ -69,16 +69,16 @@
 
                     </form>
                 </div>
-            </section>
+            </div>
 
             <!-- Submit Ticket section -->
-            <section class="right">
+            <div class="right">
                 <div class="right-content">
                     <p>Login to track your existing support requests. If you have not created a ticket yet then you would need to <a href="/">register</a> or <a href="/">create a new ticket</a> to begin.</p>
 
                     <input type="button" value="Submit ticket">
                 </div>
-            </section>
+            </div>
         </div>
     </main>
     <footer>
