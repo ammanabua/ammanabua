@@ -1,0 +1,219 @@
+*{
+    box-sizing: border-box;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body{
+    margin: 0;
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+}
+
+.brand {
+    display: flex;
+    align-items: center;
+}
+
+.logo{
+    width: 30px;
+    margin: 10px;
+}
+
+.brand-text {
+    border-left: 1px solid black;
+    padding-left: 10px;
+    font-weight: 500;
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    margin-right: 25px;
+    font-size: x-small;
+}
+
+nav > a {
+    text-decoration: none;
+    color: black;
+}
+
+.banner{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #115156;
+    height: 150px;
+    color: #fff;
+    text-align: center;
+}
+
+.banner h1{
+    font-weight: 400;
+}
+
+main{
+    background-color: #f3f3f3;
+    padding-bottom: 40px;
+}
+
+
+.content{
+    display: flex;
+    align-items: start;
+    justify-content: space-between;
+    margin-top: 80px;
+    color: #6A737B;
+    /* width: 100%; */
+}
+
+.left h2 {
+    color: #333333;
+}
+
+
+.left{
+    width: 50%;
+    border-right: 1px solid lightgray;
+}
+
+.left-content {
+    width: 60%;
+    margin: auto;
+}
+
+.lead{
+    font-size: small;
+}
+
+
+.right {
+    width: 50%;
+}
+
+.right-content{
+    width: 60%;
+    margin: auto;
+}
+
+.right p {
+    font-weight: bold;
+}
+
+.right a {
+    color: #4EAADC;
+    font-weight: normal;
+    text-decoration: none;
+}
+
+.azure{
+    width: 100%;
+    border-radius: 8px;
+    outline: none;
+    border: 1px solid lightgray;
+    background-color: #fff;
+    cursor: pointer;
+    height: 48px;
+}
+
+.azure-image{
+    width: 100px;
+    padding: 5px;
+}
+
+.separator {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    font-size: x-small;
+    margin: 10px 0;
+}
+  
+.separator::before,
+.separator::after {
+content: '';
+flex: 1;
+border-bottom: 1px solid lightgray;
+}
+
+.separator:not(:empty)::before {
+margin-right: .25em;
+}
+
+.separator:not(:empty)::after {
+margin-left: .25em;
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+    color: gray;
+    gap: 10px;
+}
+
+input{
+    height: 40px;
+    border: 1px solid lightgrey;
+    border-radius: 8px;
+    padding: 10px
+}
+
+input[type = "button"]{
+    background-color: black;
+    color: white;
+    padding: 10px;
+    cursor: pointer;
+}
+
+::placeholder{
+    color: #6A737B;
+    opacity: .5;
+}
+
+label {
+    font-size: small;
+}
+
+.form-sec{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size:smaller;
+}
+
+.form-sec a {
+    color: #4EAADC;
+    text-decoration: none;
+}
+
+.form-check{
+    display: flex;
+    align-items: center;
+}
+
+.form-check label{
+    
+}
+
+footer{
+    background-color: #e6e6e6;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.footer-text{
+    margin: 0;
+    text-align: right;
+    font-size: small;
+    color: gray;
+}
+
+.validation{
+    display: flex;
+    gap: 12px;
+}
