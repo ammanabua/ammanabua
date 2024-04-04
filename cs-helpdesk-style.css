@@ -158,8 +158,9 @@ input{
     height: 40px;
     border: 1px solid lightgrey;
     border-radius: 8px;
-    padding: 10px
+    padding: 10px;
 }
+
 
 input[type = "button"]{
     background-color: black;
