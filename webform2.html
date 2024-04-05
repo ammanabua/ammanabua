@@ -29,7 +29,7 @@
                 </ul>
                 <div class="d-flex justify-content-center align-items-center gap-3">
                     <a>Hello!</a>
-                    <a href="webform1.html" class="btn bg-white text-black" type="submit">Sign Out</a>
+                    <a href="webform1.html" class="btn bg-white text-dark" type="submit">Sign Out</a>
                 </div>
               </div>
             </div>
@@ -37,8 +37,8 @@
     </header>
 
     <main>
-        <section class="container mt-5 px-5">
-            <h2>New Product Form</h2>
+        <section class="container mt-5 px-5 text-dark">
+            <h2 class="fw-normal">New Product Form</h2>
 
             <div class="container mt-4">
                 <form action="webform2.html">
@@ -79,13 +79,14 @@
                             <div class="my-3">
                                 <label class="form-label" for="supply-date">Date supplied</label>
                                 <input class="form-control" type="date" name="supply-date" id="supply-date" required>
+                                <p class="fs-6 text-black-50">Enter a valid Date.</p>
                             </div>
     
                             <div class="d-flex justify-content-end mt-5 gap-5">
                                 <input type="reset" class="btn btn-outline-primary">
 
                                 <a href="webform1.html" class="btn btn-outline-danger">Cancel</a>
-                                
+
                                 <input class="btn btn-outline-info" type="submit" value="Add Product">
                             </div>
                         </div>
