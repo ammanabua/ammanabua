@@ -1,4 +1,4 @@
-# Hi there, I'm Amman Abua 👋
+# Hi there, I'm Amman
 
 ## 🚀 About Me
 
