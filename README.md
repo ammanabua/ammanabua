@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate developer who loves building innovative solutions and learning new technologies!
+I'm a passionate engineer who loves building innovative solutions and learning new technologies!
 
 ## 📊 GitHub Stats
 
@@ -25,14 +25,6 @@ I'm a passionate developer who loves building innovative solutions and learning 
 <div align="center">
   
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ammanabua&layout=compact&theme=radical&hide_border=true&langs_count=8)
-
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-![Trophies](https://github-profile-trophy.vercel.app/?username=ammanabua&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1)
 
 </div>
 
