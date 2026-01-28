@@ -10,16 +10,6 @@
 
 I'm a passionate engineer who loves building innovative solutions and learning new technologies!
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ammanabua&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ammanabua&theme=radical&hide_border=true)
-
-</div>
-
 ## 💻 Top Languages
 
 <div align="center">
