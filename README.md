@@ -1,4 +1,4 @@
-# Hi there, I'm Amma Nabua 👋
+# Hi there, I'm Amman Abua 👋
 
 <div align="center">
   
