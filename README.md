@@ -1,11 +1,5 @@
 # Hi there, I'm Amman Abua 👋
 
-<div align="center">
-  
-![Profile Views](https://komarev.com/ghpvc/?username=ammanabua&color=blueviolet&style=flat-square)
-
-</div>
-
 ## 🚀 About Me
 
 I'm a passionate engineer who loves building innovative solutions and learning new technologies!
